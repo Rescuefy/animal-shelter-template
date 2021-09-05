@@ -1,7 +1,7 @@
 ---
 name: Story
 about: Para organizar el proyecto
-title: "[STORY]"
+title: "[Animal-Shelter Template] - Front -"
 labels: enhancement
 assignees: gastonpereyra
 

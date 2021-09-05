@@ -1,6 +1,6 @@
 # Animal Shelter Template
 
-[![Banner](https://user-images.githubusercontent.com/89747340/131262886-0d2ff971-9664-4486-8b2d-d0993be87e57.png)](https://github.com/Rescuefy)
+[![Banner-animal-shelter](https://user-images.githubusercontent.com/89747340/132141414-f86f7af0-707c-48c9-afef-146775be51ee.png)](https://github.com/Rescuefy)
 
 ## :bulb: Idea
 
